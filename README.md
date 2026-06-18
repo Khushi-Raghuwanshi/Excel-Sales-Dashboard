@@ -18,10 +18,4 @@ An interactive sales dashboard created using Microsoft Excel to analyze sales tr
 - Pivot Charts
 - Slicers
 
-## Dashboard Preview
 
-### Main Dashboard
-![Dashboard](dashboard.png)
-
-### Seller Dashboard
-![Seller Dashboard](seller_dashboard.png)
